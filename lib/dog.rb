@@ -3,14 +3,14 @@ class Dog
     puts "Woof!"
   end
   
-  
-end
-
-
-
-def sit 
+  def sit 
   puts "The Dog is sitting"
 end
+end
+
+
+
+
 
 Dog.new 
 
